@@ -83,3 +83,6 @@ these are the verified combinations that are working and its better to use them
 2- vmess + websocket (lower security)
 3- vless + tcp (direct without domain)
 ```
+## Support
+
+For support, email amirmahdiqiasvand@gmail.com
