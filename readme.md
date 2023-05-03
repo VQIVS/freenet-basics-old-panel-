@@ -1,7 +1,7 @@
-
 # X-UI basic
 
 simple yet usefull instruction for deploying x-ui to use websocket, tcp, kcp to bypass restricted networks.
+
 ## Deployment
 Get your server up to date
 ```bash
@@ -64,14 +64,22 @@ once you deployed x-ui you should be able to login with your server ip address a
 sudo ufw enable
 ```
 ## HINTS 
+```
 To buy domain you can use https://godaddy.com
+
 1-dont use persian domain store!!!
-2-check the ping of the server on each isp may differ (DONT HAVE PACKET LOSS)
+
+2-check the ping of the server on each isp may differ (DONT 
+HAVE PACKET LOSS)
+
 3-Use https://check-host.net to check if your server and ip is clean 
+
 4-dont use the main (make sub-domains)
+```
 ## Protocol combinations 
 these are the verified combinations that are working and its better to use them
+```
 1- vless + websocket 
 2- vmess + websocket (lower security)
 3- vless + tcp (direct without domain)
-
+```
