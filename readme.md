@@ -1,4 +1,7 @@
 
+# X-UI basic
+
+simple yet usefull instruction for deploying x-ui to use websocket, tcp, kcp to bypass restricted networks.
 ## Deployment
 Get your server up to date
 ```bash
